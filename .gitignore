@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data, checkpoints and other generated artifacts (never commit binaries)
+data/
+datasets/
+checkpoints/
+*.pth
+*.pt
+*.ckpt
+*.onnx
+*.zip
+*.tar
+*.tar.gz
+*.npy
+*.npz
+*.parquet
+runs/
+lightning_logs/
+wandb/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
