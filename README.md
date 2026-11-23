@@ -5,7 +5,7 @@
 
 | ДЗ | Ветка | Решение |
 |----|-------|---------|
-| ДЗ #1 | `hw1_finetuning_pseudolabeling` | [hw1_finetuning_pseudolabeling/](hw1_finetuning_pseudolabeling/) *(в работе: ждём согласования датасета)* |
+| ДЗ #1 | `hw1_finetuning_pseudolabeling` | [hw1_finetuning_pseudolabeling/](hw1_finetuning_pseudolabeling/) |
 | ДЗ #2 | `hw2_crowd_aggregation` | [hw2_crowd_aggregation/](hw2_crowd_aggregation/) |
 
 ## ДЗ #1
