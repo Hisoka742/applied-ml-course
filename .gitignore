@@ -37,3 +37,6 @@ wandb/
 .vscode/
 .DS_Store
 Thumbs.db
+
+# Local smoke-test runs of notebooks
+smoke_run.ipynb
